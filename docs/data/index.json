@@ -459,5 +459,93 @@
     "N4-5": 3
    }
   }
+ },
+ {
+  "id": "rikosaka-114",
+  "n": 114,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-06-10",
+  "bv": "BV1AUJG6oEpP",
+  "dur": 1232.2,
+  "lines": 560,
+  "notes": {
+   "vocab": 100,
+   "grammar": 25,
+   "idioms": 9,
+   "onomatopoeia": 10,
+   "levels": {
+    "N1": 48,
+    "N2": 20,
+    "N3": 22,
+    "N4-5": 10
+   }
+  }
+ },
+ {
+  "id": "rikosaka-113",
+  "n": 113,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-06-03",
+  "bv": "BV1JF7Z6gE1d",
+  "dur": 1339.9,
+  "lines": 484,
+  "notes": {
+   "vocab": 87,
+   "grammar": 24,
+   "idioms": 8,
+   "onomatopoeia": 9,
+   "levels": {
+    "N1": 46,
+    "N2": 17,
+    "N3": 19,
+    "N4-5": 5
+   }
+  }
+ },
+ {
+  "id": "rikosaka-112",
+  "n": 112,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-05-27",
+  "bv": "BV1aXG16mE8p",
+  "dur": 1171.2,
+  "lines": 398,
+  "notes": {
+   "vocab": 85,
+   "grammar": 25,
+   "idioms": 12,
+   "onomatopoeia": 10,
+   "levels": {
+    "N1": 49,
+    "N2": 18,
+    "N3": 13,
+    "N4-5": 5
+   }
+  }
+ },
+ {
+  "id": "rikosaka-111",
+  "n": 111,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-05-20",
+  "bv": "BV1KDL26SERx",
+  "dur": 1177.3,
+  "lines": 453,
+  "notes": {
+   "vocab": 105,
+   "grammar": 25,
+   "idioms": 9,
+   "onomatopoeia": 9,
+   "levels": {
+    "N1": 73,
+    "N2": 20,
+    "N4-5": 1,
+    "N3": 11
+   }
+  }
  }
 ]
