@@ -69,18 +69,20 @@ def parse_source(path, fallback_dur):
 # ---------- furigana ----------
 
 def align(surface, reading):
-    """Split a token's reading over its kanji runs: 落ち着き/おちつき -> [(0,1,お),(2,3,つ)]."""
+    """Split a token's reading over its kanji runs: 落ち着き/おちつき -> [(0,1,お),(2,3,つ)].
+    Kana is compared as hiragana on both sides, so a reading that keeps the katakana (リード曲/リードきょく)
+    still splits: only 曲 gets きょく."""
     runs = re.findall(f"[{KANA}]+|[^{KANA}]+", surface)
     pattern = "".join(
         "(" + re.escape(kata2hira(r)) + ")" if re.fullmatch(f"[{KANA}]+", r) else "(.+?)" for r in runs
     )
-    m = re.fullmatch(pattern, reading)
+    m = re.fullmatch(pattern, kata2hira(reading))
     if not m:
         return [(0, len(surface), reading)] if HAS_KANJI.search(surface) else []
     out, pos = [], 0
-    for r, g in zip(runs, m.groups()):
+    for i, r in enumerate(runs, 1):
         if HAS_KANJI.search(r) and not re.fullmatch(f"[{KANA}]+", r):
-            out.append((pos, pos + len(r), g))
+            out.append((pos, pos + len(r), reading[m.start(i):m.end(i)]))
         pos += len(r)
     return out
 
