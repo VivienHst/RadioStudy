@@ -613,5 +613,136 @@
     "N4-5": 1
    }
   }
+ },
+ {
+  "id": "rikosaka-108",
+  "n": 108,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-04-29",
+  "bv": "BV1PL9xB2Eqf",
+  "dur": 1135.2,
+  "lines": 358,
+  "notes": {
+   "vocab": 50,
+   "grammar": 25,
+   "idioms": 9,
+   "onomatopoeia": 9,
+   "levels": {
+    "N1": 33,
+    "N2": 7,
+    "N3": 9,
+    "N4-5": 1
+   }
+  }
+ },
+ {
+  "id": "rikosaka-107",
+  "n": 107,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-04-22",
+  "bv": "BV15so4BgEPQ",
+  "dur": 1217.8,
+  "lines": 369,
+  "notes": {
+   "vocab": 47,
+   "grammar": 23,
+   "idioms": 10,
+   "onomatopoeia": 10,
+   "levels": {
+    "N2": 12,
+    "N3": 8,
+    "N1": 26,
+    "N4-5": 1
+   }
+  }
+ },
+ {
+  "id": "rikosaka-106",
+  "n": 106,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-04-15",
+  "bv": "BV1tyQnBeELX",
+  "dur": 1332.4,
+  "lines": 363,
+  "notes": {
+   "vocab": 48,
+   "grammar": 25,
+   "idioms": 7,
+   "onomatopoeia": 6,
+   "levels": {
+    "N1": 31,
+    "N2": 10,
+    "N3": 6,
+    "N4-5": 1
+   }
+  }
+ },
+ {
+  "id": "rikosaka-105",
+  "n": 105,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-04-08",
+  "bv": "BV1F2D7BkE7x",
+  "dur": 1202.5,
+  "lines": 463,
+  "notes": {
+   "vocab": 61,
+   "grammar": 24,
+   "idioms": 9,
+   "onomatopoeia": 8,
+   "levels": {
+    "N1": 32,
+    "N2": 17,
+    "N3": 11,
+    "N4-5": 1
+   }
+  }
+ },
+ {
+  "id": "rikosaka-104",
+  "n": 104,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-04-01",
+  "bv": "BV1Mo9EBvEpD",
+  "dur": 1092.9,
+  "lines": 428,
+  "notes": {
+   "vocab": 70,
+   "grammar": 25,
+   "idioms": 9,
+   "onomatopoeia": 10,
+   "levels": {
+    "N1": 47,
+    "N2": 14,
+    "N3": 8,
+    "N4-5": 1
+   }
+  }
+ },
+ {
+  "id": "rikosaka-103",
+  "n": 103,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-03-25",
+  "bv": "BV1SVQSBEEgt",
+  "dur": 1137.6,
+  "lines": 450,
+  "notes": {
+   "vocab": 72,
+   "grammar": 25,
+   "idioms": 9,
+   "onomatopoeia": 8,
+   "levels": {
+    "N1": 43,
+    "N2": 22,
+    "N3": 7
+   }
+  }
  }
 ]
