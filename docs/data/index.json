@@ -903,16 +903,16 @@
   "date": "2026-01-28",
   "bv": "BV1aXzXBNE2Y",
   "dur": 1064.9,
-  "lines": 317,
+  "lines": 370,
   "notes": {
-   "vocab": 41,
+   "vocab": 39,
    "grammar": 27,
    "idioms": 10,
    "onomatopoeia": 10,
    "levels": {
-    "N1": 18,
+    "N1": 17,
     "N2": 14,
-    "N3": 8,
+    "N3": 7,
     "N4-5": 1
    }
   }
@@ -925,10 +925,10 @@
   "date": "2026-01-21",
   "bv": "BV1hSzjBhEWq",
   "dur": 1099.9,
-  "lines": 369,
+  "lines": 455,
   "notes": {
    "vocab": 54,
-   "grammar": 27,
+   "grammar": 26,
    "idioms": 10,
    "onomatopoeia": 9,
    "levels": {
@@ -946,14 +946,14 @@
   "date": "2026-01-14",
   "bv": "BV1tdzjB4E2s",
   "dur": 1053.3,
-  "lines": 310,
+  "lines": 365,
   "notes": {
-   "vocab": 58,
+   "vocab": 57,
    "grammar": 24,
-   "idioms": 11,
-   "onomatopoeia": 2,
+   "idioms": 10,
+   "onomatopoeia": 1,
    "levels": {
-    "N1": 30,
+    "N1": 29,
     "N2": 15,
     "N3": 11,
     "N4-5": 2
@@ -968,10 +968,10 @@
   "date": "2026-01-07",
   "bv": "BV1L4raBJEAm",
   "dur": 1147.9,
-  "lines": 360,
+  "lines": 335,
   "notes": {
    "vocab": 46,
-   "grammar": 27,
+   "grammar": 26,
    "idioms": 11,
    "onomatopoeia": 10,
    "levels": {
