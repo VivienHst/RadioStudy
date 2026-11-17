@@ -7,17 +7,17 @@
   "date": "2026-11-11",
   "bv": "BV18UW166Epc",
   "dur": 1537.4,
-  "lines": 492,
+  "lines": 495,
   "notes": {
-   "vocab": 70,
-   "grammar": 25,
+   "vocab": 65,
+   "grammar": 23,
    "idioms": 9,
    "onomatopoeia": 8,
    "levels": {
-    "N1": 39,
-    "N2": 24,
+    "N1": 38,
+    "N2": 21,
     "N3": 4,
-    "N4-5": 3
+    "N4-5": 2
    }
   }
  },
@@ -29,15 +29,15 @@
   "date": "2026-11-04",
   "bv": "BV1ef4h67ECT",
   "dur": 1223.7,
-  "lines": 424,
+  "lines": 486,
   "notes": {
-   "vocab": 75,
-   "grammar": 24,
+   "vocab": 73,
+   "grammar": 23,
    "idioms": 12,
-   "onomatopoeia": 10,
+   "onomatopoeia": 9,
    "levels": {
     "N1": 31,
-    "N2": 23,
+    "N2": 21,
     "N3": 18,
     "N4-5": 3
    }
@@ -51,11 +51,11 @@
   "date": "2026-10-28",
   "bv": "BV1cBxC64EZw",
   "dur": 1059,
-  "lines": 448,
+  "lines": 411,
   "notes": {
    "vocab": 80,
    "grammar": 25,
-   "idioms": 11,
+   "idioms": 10,
    "onomatopoeia": 6,
    "levels": {
     "N1": 39,
