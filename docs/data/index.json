@@ -1003,5 +1003,47 @@
     "N4-5": 2
    }
   }
+ },
+ {
+  "id": "rikosaka-91",
+  "n": 91,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2025-12-31",
+  "bv": "BV176i3BHEix",
+  "dur": 1198.2,
+  "lines": 427,
+  "notes": {
+   "vocab": 34,
+   "grammar": 29,
+   "idioms": 10,
+   "onomatopoeia": 9,
+   "levels": {
+    "N1": 21,
+    "N2": 7,
+    "N3": 6
+   }
+  }
+ },
+ {
+  "id": "rikosaka-90",
+  "n": 90,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2025-12-24",
+  "bv": "BV1QGB2B5EGQ",
+  "dur": 1200.3,
+  "lines": 311,
+  "notes": {
+   "vocab": 23,
+   "grammar": 24,
+   "idioms": 7,
+   "onomatopoeia": 6,
+   "levels": {
+    "N1": 13,
+    "N2": 6,
+    "N3": 4
+   }
+  }
  }
 ]
