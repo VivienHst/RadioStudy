@@ -1,5 +1,26 @@
 [
  {
+  "id": "rikosaka-138",
+  "n": 138,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2026-11-25",
+  "bv": "BV13VySzXEmq",
+  "dur": 1062.5,
+  "lines": 388,
+  "notes": {
+   "vocab": 35,
+   "grammar": 25,
+   "idioms": 10,
+   "onomatopoeia": 10,
+   "levels": {
+    "N1": 16,
+    "N2": 10,
+    "N3": 9
+   }
+  }
+ },
+ {
   "id": "rikosaka-137",
   "n": 137,
   "show": "佐々木李子のリコサカ！",
