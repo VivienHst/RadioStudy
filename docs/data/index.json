@@ -1643,5 +1643,110 @@
     "N3": 6
    }
   }
+ },
+ {
+  "id": "rikosaka-62",
+  "n": 62,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2025-06-11",
+  "bv": null,
+  "dur": 1132.3,
+  "lines": 464,
+  "notes": {
+   "vocab": 33,
+   "grammar": 25,
+   "idioms": 10,
+   "onomatopoeia": 7,
+   "levels": {
+    "N1": 21,
+    "N3": 5,
+    "N2": 7
+   }
+  }
+ },
+ {
+  "id": "rikosaka-61",
+  "n": 61,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2025-06-04",
+  "bv": null,
+  "dur": 1031.3,
+  "lines": 415,
+  "notes": {
+   "vocab": 45,
+   "grammar": 24,
+   "idioms": 12,
+   "onomatopoeia": 8,
+   "levels": {
+    "N2": 8,
+    "N1": 32,
+    "N3": 5
+   }
+  }
+ },
+ {
+  "id": "rikosaka-60",
+  "n": 60,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2025-05-28",
+  "bv": null,
+  "dur": 1021.2,
+  "lines": 435,
+  "notes": {
+   "vocab": 27,
+   "grammar": 24,
+   "idioms": 8,
+   "onomatopoeia": 10,
+   "levels": {
+    "N1": 16,
+    "N3": 5,
+    "N2": 6
+   }
+  }
+ },
+ {
+  "id": "rikosaka-59",
+  "n": 59,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2025-05-21",
+  "bv": null,
+  "dur": 985.9,
+  "lines": 436,
+  "notes": {
+   "vocab": 48,
+   "grammar": 24,
+   "idioms": 7,
+   "onomatopoeia": 10,
+   "levels": {
+    "N1": 35,
+    "N2": 9,
+    "N3": 4
+   }
+  }
+ },
+ {
+  "id": "rikosaka-58",
+  "n": 58,
+  "show": "佐々木李子のリコサカ！",
+  "short": "リコサカ",
+  "date": "2025-05-14",
+  "bv": null,
+  "dur": 1237.2,
+  "lines": 485,
+  "notes": {
+   "vocab": 33,
+   "grammar": 25,
+   "idioms": 10,
+   "onomatopoeia": 8,
+   "levels": {
+    "N2": 7,
+    "N1": 24,
+    "N3": 2
+   }
+  }
  }
 ]
